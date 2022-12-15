@@ -8,25 +8,14 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
   
 <table>
     <tr>
-        <td>Viernes 22       </td> <td>           Sábado 23                 </td>
+        <td>Viernes 16       </td> <td></td>
   </tr>  
-    <tr><td>                                               </td>  
-      <td>  Sesión 4 Redes de información (7:00 - 9:00 am)</td>
+    <tr><td>                      16:00-16:20              </td>  
+      <td> Introducción al genoma </td>
   </tr>
-    <tr><td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
-        </td>
-      <td>
-        Sesión 5 (9:10 -12:10) Análisis de secuencias <a href="paginas/git/sesion3.md">Git </a> y <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">Markdown</a>  </td></tr>  
-    <tr><td>
-        Comida (12:00-12:45)</td><td> Comida (12:10-12:50)</td></tr>
-    <tr><td>
-        Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos          </td>
-      <td>Sesión 6 (12:50-3:50)
-    </tr>
-    <tr><td>
-        Sesión 3 (04:00 - 7:00 pm)   Bases de datos   </td>
-        <td>Sesión 7 (4:00 -7:00 pm) Proyectos y exposición </td>
-    </tr>
+    <tr><td> 16:20 - 19:00 </td>
+        <td>Explorando DNA's </td>
+       </tr>
 </table>  
       
     
