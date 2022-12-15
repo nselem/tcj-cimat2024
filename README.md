@@ -26,7 +26,7 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 ## Temario detallado  
 <table> 
 <tr>
-  <td> <b> <a href="paginas/linux/introduccion.md">Sesión 1</a> Introducción y Linux bash</b> <br>
+  <td> <b> <a href="paginas/linux/introduccion.html">Sesión 1</a> Introducción y Linux bash</b> <br>
 1.1 Introducción a la biología y genética molecular. <br>
 Aplicaciones de biología computacional. <br>
 <b> <a href="paginas/sesion2/algoritmos.md" >Sesión 2:</a> Algoritmos Biológicos </b>  <br>
