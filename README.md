@@ -1,5 +1,5 @@
 # Biología computacional
-![UniversidadMorazan](imagenes/morazan.png)  
+![UniversidadMorazan](imagenes/cimat.png)  
 
 En este curso aprenderás un poco de biología computacional, adquirirás nociones de las herramientas linux, git, RAST y microreact.   
 
@@ -61,40 +61,13 @@ Diseño en TinkerCad  <br>
 3.4 Creando tu script  de bash <br>    
 3.5 Paquete de análisis: RAST  <br>  
 </td>
-    <td> <b> <a href="paginas/sesion4/redes.md">Sesión 4</a> Redes de información y estructura de proteinas </b> <br>  
- 4.1 PriA ¿por qué se necesitan redes? <br>  
- 4.1 Operones y STRING   <br>  
- 4.2 Roseta,y evcouplings para la reconstrucción 3D   <br>  
- 4.3 Scripts en bash  <br>
-</td>
-</tr>  
-<tr>
-<td>
-  <b> Sesión 5 Análisis de secuencias y <a href="paginas/git/sesion3.md"> GIT</a> o <a href="paginas/drive/sitios.md">drive </a> </b> <br>  
-5.1 Alineamiento   <br>  
-5.2 Contenido de GC   <br>  
-5.3 El respaldo y documentación de scripts <br>
-5.3.1 La importancia de documentar y respaldar el trabajo informático <br>
-5.3.2 Git Guardar los scripts en internet <br>
-5.3.3 MD Crear documentación organizada <br>
-5.3.4 Wiki git Documentar extensivamente scripts <br>
-</td> 
 <td>
   <b> <a href="paginas/sesion6/arboles.md">Sesión 6 </a>Árboles y metadatos </b> <br>  
 4.1 Crear un árbol a partir de un alineamiento <br>        
 4.2 Metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
-</td>
-</tr>
-<tr> 
-<td>
-<b>Sesión 7 </b>
-Dudas sobre el <a href="paginas/proyectos/proyectos.md">proyecto final  </a><br>  
 </td> 
-<td><b>Sesión 8</b>
-  Exposición de proyectos  
-</td>
-</tr>
+ </tr>
 </table>    
      
 ___         
