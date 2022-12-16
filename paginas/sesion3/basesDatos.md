@@ -1,4 +1,4 @@
-# Sesión 3 Bases de datos, mapas y uso de paquetes de análisis  
+# Sesión 4 Bases de datos (30 min) 
 
 ## Introducción
 Las bases de datos pueden ser públicas o privadas, acumulan información de los organismos y usualmente tienen algún paquete de análisis asociado a ellas. 
@@ -9,6 +9,7 @@ Las bases de datos pueden ser públicas o privadas, acumulan información de los
 ## Otros ejemplos  
 ### [NCBI](https://www.ncbi.nlm.nih.gov/)  
 NCBI es una de las grandes bases de datos biológicas. Hay inormacion de genes, genomas proteinas, etc de muchos organismos.  
+![Streptomyces](strepto.png)   
 
 Esta secuencia del gen de 16s de _Streptomyces lividans_ proviene de NCBI  
 >LC026160.1 Streptomyces lividans gene for 16S ribosomal RNA, partial sequence, strain: AS2
@@ -42,12 +43,14 @@ Basic Local alignment search tool. Blast es un alineador múltiple de secuencias
 Hagamos blast del 16s de _Streptomyces lividans_ y anota tus observaciones en el [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022).  
 [blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch)  
 
-
 ¿Cómo podrías utilizar blastp? 
 [blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)  
 
+### Ejercicio 2  Secuencia misteriosa  
+¿Qué obtienes al utilizar blast con la secuencia misteriosa? ¿Qué tipo de blast usaste?  
+¿Qué aprendes si usas [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) para saber el linaje de tu secuencia?  
 
-![Streptomyces](strepto.png)  
+### Ejercicio 3    
 Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas. 
 Anota su taxonomía en el documento colaborativo.  
 
