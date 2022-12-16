@@ -28,18 +28,16 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
   <td> <b> 
 1.0 <a href="paginas/linux/introduccion.html"> Introducción </a>  </b> <br>
 1.1 <b> <a href="paginas/sesion2/algoritmos.md" >Algoritmos Biológicos </a> </b>  <br>
-1.3 Alineamiento  <br>
-1.4 <a href="paginas/sesion3/basesDatos.md">Blast Bases de datos</a>  </b> <br>
+1.2 Alineamiento  <br>
+1.3 <a href="paginas/sesion3/basesDatos.md">Blast Bases de datos</a>  <br>
  <br>
-* 1.2 Ensamblado  <br>  
+* 1.4 Ensamblado  <br>  
 </td>
 
 <td>
-4.0 NCBI  <br>
   <b> <a href="paginas/sesion6/arboles.html">Árboles y metadatos </a> </b> <br>  
-  4.1 Crear un árbol a partir de un alineamiento <br>   
-   <a href="paginas/genomica/genomica.html"> Arboles y alineamientos</a></td>
- </tr>
+  2.1 Crear un árbol a partir de un alineamiento <br>   
+  </tr>
 </table>    
      
 ___         
