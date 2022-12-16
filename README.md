@@ -26,9 +26,8 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org
 <table> 
 <tr><td> <b> 
 1.0 <a href="paginas/linux/introduccion.html"> Introducción </a>  </b> <br>
-1.1 <b> <a href="paginas/sesion2/algoritmos.html" >Algoritmos Biológicos </a> </b>  <br>
-1.2 Alineamiento  <br>
- <br>
+1.1 <b> <a href="paginas/sesion2/algoritmos.html" >Algoritmos Biológicos </a> </b>  <br></td>
+<td>1.2 Alineamiento  <br>
 * 1.4 Ensamblado  <br>  
 </td>
 </tr>
@@ -37,7 +36,7 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org
 <td>
   <b> <a href="paginas/sesion6/arboles.html">Árboles y metadatos </a> </b> <br>  
   2.1 Crear un árbol a partir de un alineamiento <br>   </td>
-  2.2 <a href="paginas/sesion3/basesDatos.html">Blast Bases de datos</a>  <br>
+ <td> 2.2 <a href="paginas/sesion3/basesDatos.html">Blast Bases de datos</a>  <br></td>
   </tr>
 </table>    
      
