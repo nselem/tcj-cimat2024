@@ -7,7 +7,7 @@ Lee el párrafo "How Are Genomes Studied?" de  este articulo sobre [el DNA y los
 Qué comculyes sobre ¿Cómo podemos usar el DNA para ver dentro de los microbios?    
   
 ## Ejercicio   
-Anota en el [documento colaborativo](https://etherpad.net/p/compbio) ¿Dónde se te ocurre que entra el cómputo en Biología en la identificación de microorganismos?   
+Anota en el [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022) ¿Dónde se te ocurre que entra el cómputo en Biología en la identificación de microorganismos?   
 
 ## Otras referencias   
 [Los microorganismosa través de la bioinformática ](https://github.com/nselem/tcj-cimat2022/blob/master/files/Difusion_20211001_boletin93_Morelia_NellySelem.pdf)  
