@@ -1,10 +1,14 @@
 # Arboles
-Toma tus secuencias de RpoB  y conviértelo en un árbol.  
+Toma estas [secuencias de RpoB](https://github.com/nselem/tcj-cimat2022/blob/master/files/SecuenciasRpob.fasta)  y conviértelas en un árbol.  
 Links de ayuda  
 [Alineador embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/) muscle  
 [Creador de árboles](http://www.phylogeny.fr/simple_phylogeny.cgi) 
 ¿Qué observaste?  
 
+## Ejercicio 1 Ubicar una bacteria de interés  
+Busca en NCBI el RpoB de una bacteria de tu interés y ubícala en el árbol contrastándola contra otras bacterias.  
+
+## Ejercicio 2 Secuencia misteriosa   
 Ahora agrega esta secuencia y dime que observas?  
 >Secuencia_misteriosa  
 MLDTESRWAIAESFFKTRGLVRQHLDSFNDFLRNKLQQVIYEQGEIVTEVPGLKIKLGKIRYEKPSIRET
@@ -23,8 +27,10 @@ ENGIVDLVLITETLEGNKLVKVRVRDLRIPEIGDKFATRHGQKGVVGILIDQVDMPYTAKGIVPDIILNP
 HALPSRMTIGQIMEAIGGKYAALSGKPVDATPFLETPKLQEMQKEILKLGHLPDSTEVVYDGRTGQKLKS
 RILFGIVYYQKLHHMVADKMHARARGPVQILTRQPTEGRAREGGLRFGEMERDCLIGFGTAMLIKDRLLD
 NSDKAVVYICDQCGYVGWYDRSKNRYVCPVHGDKSVLHPVTVSYAFKLLIQELMSMVISPRLILGEKVNL
-GGASNE
+GGASNE  
+¿Sabes a quién pertenece ?   
 
+## Ideas extras ...  
 ## Metadatos  
 Los metadatos son datos sobre los datos usualmente vienen en una tabla de excel, hay una serie de consejos sobre buenas prácticas de toma de metadatos. En cuanto a los datos las buenas prácticas nos dicen que siempre conservemos los datos originales.    
 
