@@ -1,4 +1,4 @@
-# Sesión 4 Bases de datos (30 min) 
+# Sesión 3 Bases de datos (30 min) 
 
 ## Introducción
 Las bases de datos pueden ser públicas o privadas, acumulan información de los organismos y usualmente tienen algún paquete de análisis asociado a ellas. 
@@ -36,21 +36,7 @@ GGGGTAAAACATTTTCCCGCGGCCTTTTTTACACACGCCGCCCTTAAACTCTCAAGAAATTCTTGTACAC
 CCCCCAGGAACCGGGTGGCCCCCACCCTCTTTTGGGGGAAGGGACTGTTCCCAAAGGTGGGGTTCCCGGC
 ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 
-### Blast en NCBI 
-Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que al utilizarlo contra la base de datos de NCBI nos ayuda a encontrar otras parecidas.
-
-### Ejercicio 1 Blast en NCBI 
-Hagamos blast del 16s de _Streptomyces lividans_ y anota tus observaciones en el [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022).  
-[blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch)  
-
-¿Cómo podrías utilizar blastp? 
-[blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)  
-
-### Ejercicio 2  Secuencia misteriosa  
-¿Qué obtienes al utilizar blast con la secuencia misteriosa? ¿Qué tipo de blast usaste?  
-¿Qué aprendes si usas [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) para saber el linaje de tu secuencia?  
-
-### Ejercicio 3    
+### Ejercicio 1    
 Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas. 
 Anota su taxonomía en el documento colaborativo.  
 
