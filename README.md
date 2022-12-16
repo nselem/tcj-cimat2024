@@ -20,7 +20,7 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
       
     
 ## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
+Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
 
 ## Temario detallado  
 <table> 
