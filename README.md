@@ -27,9 +27,9 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 <tr>
   <td> <b> 
 1.0 <a href="paginas/linux/introduccion.html"> Introducción </a>  </b> <br>
-1.1 <b> <a href="paginas/sesion2/algoritmos.md" >Algoritmos Biológicos </a> </b>  <br>
+1.1 <b> <a href="paginas/sesion2/algoritmos.html" >Algoritmos Biológicos </a> </b>  <br>
 1.2 Alineamiento  <br>
-1.3 <a href="paginas/sesion3/basesDatos.md">Blast Bases de datos</a>  <br>
+1.3 <a href="paginas/sesion3/basesDatos.html">Blast Bases de datos</a>  <br>
  <br>
 * 1.4 Ensamblado  <br>  
 </td>
