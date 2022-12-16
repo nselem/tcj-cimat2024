@@ -13,7 +13,10 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
     <tr><td>                      16:00-16:20              </td>  
       <td> Introducción al genoma </td>
   </tr>
-    <tr><td> 16:20 - 19:00 </td>
+    <tr><td> 16:20 - 17:20 </td>
+        <td>Explorando DNA's </td>
+       </tr>
+          <tr><td> 17:40 - 19:00 </td>
         <td>Explorando DNA's </td>
        </tr>
 </table>  
