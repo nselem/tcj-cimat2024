@@ -41,9 +41,6 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 
   4.1 Crear un árbol a partir de un alineamiento <br>   
    <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
-4.2 Metadatos en proyectos genómicos <br>  
-4.3 MicroReact y la visualización de metadatos. <br>  
-</td> 
  </tr>
 </table>    
      
