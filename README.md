@@ -35,8 +35,8 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org
   <tr>
 <td>
   <b> <a href="paginas/sesion6/arboles.html">Árboles y metadatos </a> </b> <br>  
-  2.1 Crear un árbol a partir de un alineamiento <br>   </td>
- <td> 2.2 <a href="paginas/sesion3/basesDatos.html">Blast Bases de datos</a>  <br></td>
+  2.1 <a href="paginas/sesion3/basesDatos.html">Blast Bases de datos</a>  <br></td>
+ <td>   2.2 Crear un árbol a partir de un alineamiento <br>   </td>
   </tr>
 </table>    
      
