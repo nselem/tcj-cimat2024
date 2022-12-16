@@ -1,4 +1,4 @@
-# Biología computacional
+# Bioinformática, descubriendo la diversidad microbiana con el ADN
 ![UniversidadMorazan](imagenes/cimat.png)  
 
 En este curso aprenderás un poco de biología computacional, adquirirás nociones de las herramientas linux, git, RAST y microreact.   
