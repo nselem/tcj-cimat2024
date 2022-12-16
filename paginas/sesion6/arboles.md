@@ -1,4 +1,4 @@
-# Arboles
+# Arboles Sesión 4 (30 min)
 Toma estas [secuencias de RpoB](https://github.com/nselem/tcj-cimat2022/blob/master/files/SecuenciasRpob.fasta)  y conviértelas en un árbol.  
 Links de ayuda  
 [Alineador embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/) muscle  
@@ -29,6 +29,20 @@ RILFGIVYYQKLHHMVADKMHARARGPVQILTRQPTEGRAREGGLRFGEMERDCLIGFGTAMLIKDRLLD
 NSDKAVVYICDQCGYVGWYDRSKNRYVCPVHGDKSVLHPVTVSYAFKLLIQELMSMVISPRLILGEKVNL
 GGASNE  
 ¿Sabes a quién pertenece ?   
+
+### Blast en NCBI 
+Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que al utilizarlo contra la base de datos de NCBI nos ayuda a encontrar otras parecidas.
+
+### Ejercicio 3 Blast en NCBI 
+Hagamos blast del 16s de _Streptomyces lividans_ y anota tus observaciones en el [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022).  
+[blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch)  
+
+¿Cómo podrías utilizar blastp? 
+[blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)  
+
+### Ejercicio 4  Secuencia misteriosa  
+¿Qué obtienes al utilizar blast con la secuencia misteriosa? ¿Qué tipo de blast usaste?  
+¿Qué aprendes si usas [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) para saber el linaje de tu secuencia?  
 
 ## Ideas extras ...  
 ## Metadatos  
