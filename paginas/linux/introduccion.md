@@ -1,6 +1,6 @@
 # Sesión 1   (30 min)
 
-En esta sesión tendremos una plática de [Introducción](https://docs.google.com/presentation/d/1KAqX-04a1SJ_7_JD8wbF9rTOHVcUfmHmMM2xhBKcLI4/edit?usp=sharing) donde hablaremos que la biología computacional puede aplicarse tanto en software como en hardware.   
+En esta sesión tendremos una plática de [Introducción](https://www.dropbox.com/s/706vwqg8oqzvcxk/Bioinform%C3%A1tica_Filogenias_CIMAT.pptx?dl=0)) donde hablaremos que la biología computacional puede aplicarse tanto en software como en hardware.   
 
 ## Ejemplo   
 Lee el párrafo "How Are Genomes Studied?" de  este articulo sobre [el DNA y los microorganismos](https://kids.frontiersin.org/articles/10.3389/frym.2022.716911) de la colección Frontiers in Young Minds. Puedes apoyarte en la [herramienta de traducción de google](https://translate.google.com/?hl=es) para leerlo en español. 
