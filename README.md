@@ -20,21 +20,20 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
       
     
 ## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
-
+Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
 
 ## Temario detallado  
 <table> 
 <tr>
-  <td> <b> <a href="paginas/linux/introduccion.html">Sesión 1</a> Introducción y Linux bash</b> <br>
+  <td> <b> 
+1.0 <a href="paginas/linux/introduccion.html"> Introducción a la biología computacional</a>  </b> <br>
 1.1 Introducción a la biología y genética molecular. <br>
-Aplicaciones de biología computacional. <br>
-<b> <a href="paginas/sesion2/algoritmos.md" >Sesión 2:</a> Algoritmos Biológicos </b>  <br>
-1.2 Ensamblado  <br>  
+<b> <a href="paginas/sesion2/algoritmos.md" >Algoritmos Biológicos </a> </b>  <br>
 1.3 Alineamiento  <br>
 1.4 BLAST   (16s) <br>
-1.5 Algoritmos de Bash Loops <br>
+* 1.2 Ensamblado  <br>  
 </td>
+
 <td>
 <a href="paginas/sesion3/basesDatos.md">Sesión 3</a>  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
 4.0 NCBI  <br>
