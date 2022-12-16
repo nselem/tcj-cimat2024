@@ -79,6 +79,7 @@ CCCCCAGGAACCGGGTGGCCCCCACCCTCTTTTGGGGGAAGGGACTGTTCCCAAAGGTGGGGTTCCCGGC
 ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 
 Alineador [embl/muscle](https://www.ebi.ac.uk/Tools/msa/muscle/)
+Algunos alineadores computacionales no aceptan espacios en los nombres. Puedes quedarte sólo con la primera parte del identificador.  
 
 ## Blast  
 Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que nos ayuda a encontrar otras parecidas. Hagamos blast del 16s de Streptomyces coelicolor.  
