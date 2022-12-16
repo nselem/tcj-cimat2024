@@ -10,7 +10,7 @@ Mira este articulo sobre [el DNA y los microorganismos](https://kids.frontiersin
 Anota en el [documento colaborativo](https://etherpad.net/p/compbio) ¿Dónde se te ocurre que entra el cómputo en Biología en la identificación de microorganismos?   
 
 ## Otras referencias   
-[Los microorganismos y el big data ](https://github.com/nselem/tcj-cimat2022/blob/master/files/Difusion_20211001_boletin93_Morelia_NellySelem.pdf)  
+[Los microorganismosa través de la bioinformática ](https://github.com/nselem/tcj-cimat2022/blob/master/files/Difusion_20211001_boletin93_Morelia_NellySelem.pdf)  
 [El DNA ambiental y los ecosistemas](https://kids.frontiersin.org/articles/10.3389/frym.2019.00150)  
 
   
