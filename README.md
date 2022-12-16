@@ -24,8 +24,7 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 
 ## Temario detallado  
 <table> 
-<tr>
-  <td> <b> 
+<tr><td> <b> 
 1.0 <a href="paginas/linux/introduccion.html"> Introducción </a>  </b> <br>
 1.1 <b> <a href="paginas/sesion2/algoritmos.html" >Algoritmos Biológicos </a> </b>  <br>
 1.2 Alineamiento  <br>
@@ -33,7 +32,9 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
  <br>
 * 1.4 Ensamblado  <br>  
 </td>
-<tr>
+</tr>
+
+  <tr>
 <td>
   <b> <a href="paginas/sesion6/arboles.html">Árboles y metadatos </a> </b> <br>  
   2.1 Crear un árbol a partir de un alineamiento <br>   </td>
