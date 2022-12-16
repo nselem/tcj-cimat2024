@@ -1,6 +1,6 @@
 # Sesión 1   
 
-En esta sesión tendremos una plática de [Introducción](https://docs.google.com/presentation/d/1KAqX-04a1SJ_7_JD8wbF9rTOHVcUfmHmMM2xhBKcLI4/edit?usp=sharing) donde hablaremos que la biología compututacional puede aplicarse tanto en software como en hardware.   
+En esta sesión tendremos una plática de [Introducción](https://docs.google.com/presentation/d/1KAqX-04a1SJ_7_JD8wbF9rTOHVcUfmHmMM2xhBKcLI4/edit?usp=sharing) donde hablaremos que la biología computacional puede aplicarse tanto en software como en hardware.   
 
 ## Ejemplo   
 Mira este articulo sobre [el DNA y los microorganismos](https://kids.frontiersin.org/articles/10.3389/frym.2022.716911) de la colección Frontiers in Young Minds  
