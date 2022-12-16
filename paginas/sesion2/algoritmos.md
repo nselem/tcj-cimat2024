@@ -1,5 +1,5 @@
 
-# Algoritmos en biología  
+# Sesión 2 Algoritmos en biología  (30 min) 
 Un algoritmo es un proceso con pasos finito que tiene un principio y un final. Por ejemplo cambiar una llanta es un algoritmo. En Biología se aplican mucho algoritmos matemáticos y computacionales.  
 
 ## Distancia entre dos secuencias  
@@ -80,11 +80,6 @@ ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 
 Alineador [embl/muscle](https://www.ebi.ac.uk/Tools/msa/muscle/)
 Algunos alineadores computacionales no aceptan espacios en los nombres. Puedes quedarte sólo con la primera parte del identificador.  
-
-## Blast  
-Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que nos ayuda a encontrar otras parecidas. Hagamos blast del 16s de Streptomyces coelicolor.  
-[blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch)  
-[blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)  
 
 ## Haz tu propio algoritmo  
 Algoritmos en linux, [lección de loops](https://swcarpentry.github.io/shell-novice-es/05-loop/index.html)  
