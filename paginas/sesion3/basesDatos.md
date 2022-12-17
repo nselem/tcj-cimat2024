@@ -1,4 +1,4 @@
-# Sesión 3 Bases de datos (30 min) 
+# Sesión 4 Bases de datos (30 min) 
 
 ## Introducción
 Las bases de datos pueden ser públicas o privadas, acumulan información de los organismos y usualmente tienen algún paquete de análisis asociado a ellas. 
@@ -8,7 +8,7 @@ Las bases de datos pueden ser públicas o privadas, acumulan información de los
 
 ## Otros ejemplos  
 ### [NCBI](https://www.ncbi.nlm.nih.gov/)  
-NCBI es una de las grandes bases de datos biológicas. Hay inormacion de genes, genomas proteinas, etc de muchos organismos.  
+NCBI es una de las grandes bases de datos biológicas. Hay información de genes, genomas proteínas, etc de muchos organismos.  
 ![Streptomyces](strepto.png)   
 
 Esta secuencia del gen de 16s de _Streptomyces lividans_ proviene de NCBI  
@@ -40,6 +40,8 @@ ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas. 
 Anota su taxonomía en el documento colaborativo.  
 
+### [Ábrol de la vida](http://tolweb.org/tree/)
+En el árbol de la vida podrás explorar la diversidad de la vida.  
 
 ### [RAST](http://rast.nmpdr.org/rast.cgi)  
 RAST es un anotador automático. Encuentra genes codificantes y les asigna función.  
