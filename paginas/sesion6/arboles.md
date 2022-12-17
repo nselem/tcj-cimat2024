@@ -1,4 +1,4 @@
-# Arboles Sesión 4 (30 min)
+# Arboles Sesión 3 (30 min)
 Toma estas [secuencias de RpoB](https://github.com/nselem/tcj-cimat2022/blob/master/files/SecuenciasRpob.fasta)  y conviértelas en un árbol.  
 Links de ayuda  
 [Alineador embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/) muscle  
@@ -30,7 +30,7 @@ NSDKAVVYICDQCGYVGWYDRSKNRYVCPVHGDKSVLHPVTVSYAFKLLIQELMSMVISPRLILGEKVNL
 GGASNE  
 ¿Sabes a quién pertenece ?   
 
-### Blast en NCBI 
+### Blast en NCBI  
 Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que al utilizarlo contra la base de datos de NCBI nos ayuda a encontrar otras parecidas.
 
 ### Ejercicio 3 Blast en NCBI 
@@ -44,6 +44,8 @@ Hagamos blast del 16s de _Streptomyces lividans_ y anota tus observaciones en el
 ¿Qué obtienes al utilizar blast con la secuencia misteriosa? ¿Qué tipo de blast usaste?  
 ¿Qué aprendes si usas [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) para saber el linaje de tu secuencia?  
 
+### Saber más
+LA investigación de Woese fue publicada en 1977. Aqui puedes consultar su propuesta de los [súper reinos](https://www.pnas.org/doi/10.1073/pnas.74.11.5088#supplementary-materials)
 ## Ideas extras ...  
 ## Metadatos  
 Los metadatos son datos sobre los datos usualmente vienen en una tabla de excel, hay una serie de consejos sobre buenas prácticas de toma de metadatos. En cuanto a los datos las buenas prácticas nos dicen que siempre conservemos los datos originales.    
