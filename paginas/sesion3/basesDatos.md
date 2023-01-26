@@ -36,9 +36,12 @@ GGGGTAAAACATTTTCCCGCGGCCTTTTTTACACACGCCGCCCTTAAACTCTCAAGAAATTCTTGTACAC
 CCCCCAGGAACCGGGTGGCCCCCACCCTCTTTTGGGGGAAGGGACTGTTCCCAAAGGTGGGGTTCCCGGC
 ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 
-### Ejercicio 1    
-Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas. 
-Anota su taxonomía en el documento colaborativo.  
+#### Ejercicio 1    
+Busca la taxonomía completa de _Streptomyces coelicolor_ en [NCBI taxonomy]([url](https://www.ncbi.nlm.nih.gov/taxonomy)).  
+
+#### Ejercicio 2 
+Utiliza [blastn]([url](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_SPEC=GeoBlast&PAGE_TYPE=BlastSearch)) para buscar como query el 16S de _Streptomyces lividans_ 
+contra toda la base de NCBI
 
 ### [Ábrol de la vida](http://tolweb.org/tree/)
 En el árbol de la vida podrás explorar la diversidad de la vida.  
