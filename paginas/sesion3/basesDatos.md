@@ -34,10 +34,10 @@ CCCCCAGGAACCGGGTGGCCCCCACCCTCTTTTGGGGGAAGGGACTGTTCCCAAAGGTGGGGTTCCCGGC
 ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 
 #### Ejercicio 1    
-Busca la taxonomía completa de _Streptomyces coelicolor_ en [NCBI taxonomy]([url](https://www.ncbi.nlm.nih.gov/taxonomy)).  
+Busca la taxonomía completa de _Streptomyces coelicolor_ en [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy).  
 
 #### Ejercicio 2 
-Utiliza [blastn]([url](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_SPEC=GeoBlast&PAGE_TYPE=BlastSearch)) para buscar como query el 16S de _Streptomyces lividans_ contra toda la base de NCBI. Guarda las cinco secuencias que mejor alineen (no 100% idéntica) en un archivo de texto. La utilizaremos después para realizar un árbol.  
+Utiliza [blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_SPEC=GeoBlast&PAGE_TYPE=BlastSearch) para buscar como query el 16S de _Streptomyces lividans_ contra toda la base de NCBI. Guarda las cinco secuencias que mejor alineen (no 100% idéntica) en un formato fasta archivo de texto. La utilizaremos después para realizar un árbol.  
 
 #### Ejercicio 3
 Ve a NCBI y descarga el 16S de tu bacteria favorita. Anota el 16S aquí: [Documento colaborativov de 16s](https://docs.google.com/document/d/1LRmGY6wzyB9lnIbv3v9dF-DmTFzhTAjUaTAr6vZc5Uw/edit?usp=sharing). El encabezado con el nombre de la bacteria no debe llevar espacios, caracteres raros, ni pasar de 5o caracteres.
