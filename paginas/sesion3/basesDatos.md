@@ -3,10 +3,7 @@
 ## Introducción
 Las bases de datos pueden ser públicas o privadas, acumulan información de los organismos y usualmente tienen algún paquete de análisis asociado a ellas. 
 
-### Ejemplo 1 
-[Clavigenomics](https://nselem.github.io/clavigenomics/) una base de datos de Clavibacter michiganensis Bacteria patógena de tomate.  
-
-## Otros ejemplos  
+## Bases de datos públicas  
 ### [NCBI](https://www.ncbi.nlm.nih.gov/)  
 NCBI es una de las grandes bases de datos biológicas. Hay información de genes, genomas proteínas, etc de muchos organismos.  
 ![Streptomyces](strepto.png)   
@@ -40,10 +37,12 @@ ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 Busca la taxonomía completa de _Streptomyces coelicolor_ en [NCBI taxonomy]([url](https://www.ncbi.nlm.nih.gov/taxonomy)).  
 
 #### Ejercicio 2 
-Utiliza [blastn]([url](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_SPEC=GeoBlast&PAGE_TYPE=BlastSearch)) para buscar como query el 16S de _Streptomyces lividans_ 
-contra toda la base de NCBI
+Utiliza [blastn]([url](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_SPEC=GeoBlast&PAGE_TYPE=BlastSearch)) para buscar como query el 16S de _Streptomyces lividans_ contra toda la base de NCBI. Guarda las cinco secuencias que mejor alineen (no 100% idéntica) en un archivo de texto. La utilizaremos después para realizar un árbol.  
 
-### [Ábrol de la vida](http://tolweb.org/tree/)
+#### Ejercicio 3
+Ve a NCBI y descarga el 16S de tu bacteria favorita. Anota el 16S aquí: [Documento colaborativov de 16s](https://docs.google.com/document/d/1LRmGY6wzyB9lnIbv3v9dF-DmTFzhTAjUaTAr6vZc5Uw/edit?usp=sharing). El encabezado con el nombre de la bacteria no debe llevar espacios, caracteres raros, ni pasar de 5o caracteres.
+
+### [Árbol de la vida](http://tolweb.org/tree/)
 En el árbol de la vida podrás explorar la diversidad de la vida.  
 
 ### [RAST](http://rast.nmpdr.org/rast.cgi)  
@@ -63,3 +62,6 @@ Busca HisA en ambas bases ¿Qué obtienes?
 Toma la secuencia de HisA y analízala en pFAM, qué obtienes? 
 
 ¿Cómo son tus organismos en RAST?  
+
+### También existen bases de datos privadas  
+[Clavigenomics](https://nselem.github.io/clavigenomics/) una base de datos de Clavibacter michiganensis Bacteria patógena de tomate.  
