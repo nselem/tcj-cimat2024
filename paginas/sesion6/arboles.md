@@ -29,12 +29,10 @@ HALPSRMTIGQIMEAIGGKYAALSGKPVDATPFLETPKLQEMQKEILKLGHLPDSTEVVYDGRTGQKLKS
 RILFGIVYYQKLHHMVADKMHARARGPVQILTRQPTEGRAREGGLRFGEMERDCLIGFGTAMLIKDRLLD
 NSDKAVVYICDQCGYVGWYDRSKNRYVCPVHGDKSVLHPVTVSYAFKLLIQELMSMVISPRLILGEKVNL
 GGASNE  
-¿Sabes a quién pertenece ?   
+¿Sabes a quién pertenece ?
 
-### Blast en NCBI  
-Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que al utilizarlo contra la base de datos de NCBI nos ayuda a encontrar otras parecidas.
-
-### Ejercicio 3 Blast en NCBI 
+### Ejercicio 3 Blast en NCBI
+🔎 Basic Local alignment search tool [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins) es un alineador múltiple de secuencias que al utilizarlo contra la base de datos de NCBI nos ayuda a encontrar otras parecidas.
 Hagamos blast del 16s de _Streptomyces lividans_ y anota tus observaciones en el [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022).  
 [blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch)  
 
@@ -47,7 +45,11 @@ Hagamos blast del 16s de _Streptomyces lividans_ y anota tus observaciones en el
 
 ### Saber más
 LA investigación de Woese fue publicada en 1977. Aqui puedes consultar su propuesta de los [súper reinos](https://www.pnas.org/doi/10.1073/pnas.74.11.5088#supplementary-materials)
-## Ideas extras ...  
+
+## Ejercicio 5 Ecología microbiana
+ Tenemos en [este archivo](https://github.com/nselem/tcj-cimat2022/blob/master/files/metagenoma.fasta) una muestra de DNA de una poza de 4-Ciénegas en Coahuila. ¿Qué microorganismos viven ahi? ¿Cuál es el más abundante?. 
+ 🔎 En el [Taller de Metagenómica](https://carpentries-lab.github.io/metagenomics-workshop/) puedes aprender más de análisis de microbiomas.
+
 ## Metadatos  
 Los metadatos son datos sobre los datos usualmente vienen en una tabla de excel, hay una serie de consejos sobre buenas prácticas de toma de metadatos. En cuanto a los datos las buenas prácticas nos dicen que siempre conservemos los datos originales.    
 
@@ -79,8 +81,9 @@ f) da click en continue (without three)
 g) Ingresa el título de tu proyecto de visualización  
 h) Visualiza tus resultados!  
 i) Ahora visualiza resultados de [SARS CoV 2 en México](https://microreact.org/project/85AjpLvyqtUwLK133WGM3x-variantes-sars-cov-2-2022-enero)
-### Visualización simultánea de árboles y mapas
 
+
+### Visualización simultánea de árboles y mapas
 Ahora regresa a la página principal de microrreact.  
 Selecciona el proyecto 'Zika virus in the Americas', discute con tu compañero de al lado y escriban sus respuestas en el documento colaborativo.  
 ¿En dónde se tuvo el primer registro de este virus?  
