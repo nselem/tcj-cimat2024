@@ -1,4 +1,4 @@
-# Arboles Sesión 3 (30 min)
+# Arboles Sesión 3 (50 min)
 Toma estas [secuencias de RpoB](https://github.com/nselem/tcj-cimat2022/blob/master/files/SecuenciasRpob.fasta)  y conviértelas en un árbol.  
 Links de ayuda  
 [Alineador embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/) muscle  
