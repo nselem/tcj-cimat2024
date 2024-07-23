@@ -1,4 +1,4 @@
-# Sesión 4 Bases de datos (30 min) 
+# Sesión 4 Bases de datos (50 min) 
 
 ## Introducción
 Las bases de datos pueden ser públicas o privadas, acumulan información de los organismos y usualmente tienen algún paquete de análisis asociado a ellas. 
