@@ -10,7 +10,7 @@ Qué conculyes sobre ¿Cómo podemos usar el DNA para ver dentro de los microbio
 Anota en el [documento colaborativo](https://etherpad.wikimedia.org/p/CIMAT2024) ¿Dónde se te ocurre que entra el cómputo en Biología en la identificación de microorganismos?   
 
 ## Otras referencias   
-[Los microorganismosa través de la bioinformática ](https://github.com/nselem/tcj-cimat2022/blob/master/files/Difusion_20211001_boletin93_Morelia_NellySelem.pdf)  
+[Los microorganismos a través de la bioinformática ](https://github.com/nselem/tcj-cimat2022/blob/master/files/Difusion_20211001_boletin93_Morelia_NellySelem.pdf)  
 [El DNA ambiental y los ecosistemas](https://kids.frontiersin.org/articles/10.3389/frym.2019.00150)  
 
   
