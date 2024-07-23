@@ -1,5 +1,5 @@
 
-# Sesión 2 Algoritmos en biología  (30 min) 
+# Sesión 2 Algoritmos en biología  (50 min) 
 Un algoritmo es un proceso con pasos finito que tiene un principio y un final. Por ejemplo cambiar una llanta es un algoritmo. En Biología se aplican mucho algoritmos matemáticos y computacionales.  
 
 ## Distancia entre dos secuencias  
@@ -91,4 +91,4 @@ Discute este [artículo](https://www.nature.com/articles/nbt1004-1315) con tus c
 Cuando se te entrega un genoma secuenciado genoma este viene en muchos pedazos de tamaño relacionado a la tecnología utilizada para secuenciar. Para poder encontrar genes y comparar tu genoma con otros genomas, hace falta ensamblarlo. Existen algoritmos para hacer esto desde la terminal, nosotros haremos un ejercicio práctico.   
 
 ### Ejercicio  
-Ensambla tu genoma y encuentra a quién pertenece. ¿Qué profundidad tiene? ¿De qué tamaño son tus pedazos en promedio? ¿Cómo le fue a tu compañero?  Discute los resultados y anótalos en el [documento colaborativo ]([https://etherpad.net/p/compbio](https://etherpad.wikimedia.org/p/CIMAT2024))  
+Ensambla tu genoma y encuentra a quién pertenece. ¿Qué profundidad tiene? ¿De qué tamaño son tus pedazos en promedio? ¿Cómo le fue a tu compañero?  Discute los resultados y anótalos en el [documento colaborativo ]([(https://etherpad.wikimedia.org/p/CIMAT2024)])  
