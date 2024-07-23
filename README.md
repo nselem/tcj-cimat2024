@@ -8,22 +8,22 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
   
 <table>
     <tr>
-        <td>Viernes 16       </td> <td></td>
+        <td>Martes 23       </td> <td></td>
   </tr>  
-    <tr><td>                      16:00-16:20              </td>  
+    <tr><td>                      15:00-15:20              </td>  
       <td> Introducción al genoma </td>
   </tr>
-    <tr><td> 16:20 - 17:20 </td>
+    <tr><td> 15:20 - 16:20 </td>
         <td>Explorando DNA's </td>
        </tr>
-          <tr><td> 17:40 - 19:00 </td>
+          <tr><td> 16:40 - 19:00 </td>
         <td>Explorando DNA's </td>
        </tr>
 </table>  
       
     
 ## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
+Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org/p/CIMAT2024) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
 
 ## Temario detallado  
 <table> 
