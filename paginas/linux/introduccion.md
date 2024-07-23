@@ -1,4 +1,4 @@
-# Sesión 1   (30 min)
+# Sesión 1   (50 min)
 
 En esta sesión tendremos una plática de [Introducción](https://www.dropbox.com/s/706vwqg8oqzvcxk/Bioinform%C3%A1tica_Filogenias_CIMAT.pptx?dl=0) donde hablaremos que la biología computacional puede aplicarse tanto en software como en hardware.   
 
@@ -7,7 +7,7 @@ Lee el párrafo "How Are Genomes Studied?" de  este articulo sobre [el DNA y los
 Qué conculyes sobre ¿Cómo podemos usar el DNA para ver dentro de los microbios?    
   
 ## Ejercicio   
-Anota en el [documento colaborativo](https://etherpad.wikimedia.org/p/tsjcimat2022) ¿Dónde se te ocurre que entra el cómputo en Biología en la identificación de microorganismos?   
+Anota en el [documento colaborativo](https://etherpad.wikimedia.org/p/CIMAT2024) ¿Dónde se te ocurre que entra el cómputo en Biología en la identificación de microorganismos?   
 
 ## Otras referencias   
 [Los microorganismosa través de la bioinformática ](https://github.com/nselem/tcj-cimat2022/blob/master/files/Difusion_20211001_boletin93_Morelia_NellySelem.pdf)  
