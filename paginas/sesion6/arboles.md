@@ -1,4 +1,5 @@
 # Arboles Sesión 3 (50 min)
+[_RpoB_](https://en.wikipedia.org/wiki/RpoB) es un gen conservado, que permite hacer comparaciones entre organismos.
 Toma estas [secuencias de RpoB](https://github.com/nselem/tcj-cimat2022/blob/master/files/SecuenciasRpob.fasta)  y conviértelas en un árbol.  
 Links de ayuda  
 [Alineador embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/) muscle  
@@ -6,7 +7,7 @@ Links de ayuda
 ¿Qué observaste?  
 
 ## Ejercicio 1 Ubicar una bacteria de interés  
-Busca en NCBI el RpoB de una bacteria de tu interés y ubícala en el árbol contrastándola contra otras bacterias.  
+Busca en [NCBI](https://www.ncbi.nlm.nih.gov/) el _rpoB_ de una bacteria de tu interés y ubícala en el árbol contrastándola contra otras bacterias.  
 
 ## Ejercicio 2 Secuencia misteriosa   
 Ahora agrega esta secuencia y dime que observas?  
