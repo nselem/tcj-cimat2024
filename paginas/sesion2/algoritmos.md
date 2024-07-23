@@ -32,8 +32,7 @@ Como podemos ver, eventos evolutivos como las deleciones e inserciones crean la 
 
 ### Ejemplo 2
 El 16s es una de las secuencias ms conservadas, vamos a hacer un alineamiento entre las secuencias de 16s de estos organismos. Vamos a alinearlos:
->
-\>NR_112305.1_Streptomyces_coelicolor_12854_16S_ribosomal_RNA
+>\>NR_112305.1_Streptomyces_coelicolor_12854_16S_ribosomal_RNA
 ACGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGATGAACCGCTTTCGGGCGGGGATTAGTGGC
 GAACGGGTGAGTAACACGTGGGCAATCTGCCCTGCACTCTGGGACAAGCCCTGGAAACGGGGTCTAATAC
 CGGATATGACTGTCCATCGCATGGTGGATGGTGTAAAGCTCCGGCGGTGCAGGATGAGCCCGCGGCCTAT
