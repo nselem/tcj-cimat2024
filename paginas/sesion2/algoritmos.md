@@ -2,6 +2,8 @@
 # Sesión 2 Algoritmos en biología  (50 min) 
 Un algoritmo es un proceso con pasos finito que tiene un principio y un final. Por ejemplo cambiar una llanta es un algoritmo. En Biología se aplican mucho algoritmos matemáticos y computacionales.  
 
+¡qué es la Evolución? [Explora el museo](https://132.248.41.65/biomat/evolucion/)
+
 ## Distancia entre dos secuencias  
 La distancia mas simple entre dos secuencias es un 0 si tienen la misma base o un 1 si no la tienen. Mira el siguiente ejemplo 
 ![dis1](distanciaH1.png)  
