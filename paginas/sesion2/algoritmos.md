@@ -31,7 +31,7 @@ Como podemos ver, eventos evolutivos como las deleciones e inserciones crean la 
 >seq3  CA-GACCACACA   
 
 ### Ejemplo 2
-El 16s es una de las secuencias ms conservadas, vamos a hacer un alineamiento entre las secuencias de 16s de estos organismos. Vamos a alinearlos:
+El 16s es una de las secuencias más conservadas, vamos a hacer un alineamiento entre las secuencias de 16s de estos organismos. Vamos a alinearlos:
 >\>NR_112305.1_Streptomyces_coelicolor_12854_16S_ribosomal_RNA
 ACGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGATGAACCGCTTTCGGGCGGGGATTAGTGGC
 GAACGGGTGAGTAACACGTGGGCAATCTGCCCTGCACTCTGGGACAAGCCCTGGAAACGGGGTCTAATAC
@@ -81,7 +81,7 @@ CCCCCAGGAACCGGGTGGCCCCCACCCTCTTTTGGGGGAAGGGACTGTTCCCAAAGGTGGGGTTCCCGGC
 ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 
 Alineador [embl/muscle](https://www.ebi.ac.uk/Tools/msa/muscle/)
-Algunos alineadores computacionales no aceptan espacios en los nombres. Puedes quedarte sólo con la primera parte del identificador.  
+Algunos alineadores computacionales no aceptan espacios en los nombres o identificadores muy largos. Puedes modificar el identificador  como necesites para poder alinear.  
 
 ## Haz tu propio algoritmo  
 Algoritmos en linux, [lección de loops](https://swcarpentry.github.io/shell-novice-es/05-loop/index.html)  
