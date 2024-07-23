@@ -17,9 +17,14 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
         <td> Introducción (ejercicios) </td>
        </tr>
           <tr><td> 16:00 - 16:50 </td>
-        <td> Algoritmos en biología 17:00 - 17:50 </td>
+        <td> Algoritmos en biología </td>
        </tr>
-  
+      <tr><td> 17:00 - 17:50 </td>
+        <td> Árboles y metadatos </td>
+       </tr>
+        <tr><td> 18:00 - 18:50 </td>
+        <td> Blast y Bases de datos </td>
+       </tr>
 </table>  
       
     
