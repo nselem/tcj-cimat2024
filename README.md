@@ -11,14 +11,15 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
         <td>Martes 23       </td> <td></td>
   </tr>  
     <tr><td>                      15:00-15:20              </td>  
-      <td> Introducción al genoma </td>
+      <td> Introducción (presentación) </td>
   </tr>
-    <tr><td> 15:20 - 16:20 </td>
-        <td>Explorando DNA's </td>
+    <tr><td> 15:20 - 16:00 </td>
+        <td> Introducción (ejercicios) </td>
        </tr>
-          <tr><td> 16:40 - 19:00 </td>
-        <td>Explorando DNA's </td>
+          <tr><td> 16:00 - 16:50 </td>
+        <td> Algoritmos en biología 17:00 - 17:50 </td>
        </tr>
+  
 </table>  
       
     
