@@ -32,8 +32,8 @@ Como podemos ver, eventos evolutivos como las deleciones e inserciones crean la 
 
 ### Ejemplo 2
 El 16s es una de las secuencias ms conservadas, vamos a hacer un alineamiento entre las secuencias de 16s de estos organismos. Vamos a alinearlos:
-
->NR_112305.1 Streptomyces coelicolor strain NBRC 12854 16S ribosomal RNA gene, partial sequence
+>
+\>NR_112305.1_Streptomyces_coelicolor_12854_16S_ribosomal_RNA
 ACGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGATGAACCGCTTTCGGGCGGGGATTAGTGGC
 GAACGGGTGAGTAACACGTGGGCAATCTGCCCTGCACTCTGGGACAAGCCCTGGAAACGGGGTCTAATAC
 CGGATATGACTGTCCATCGCATGGTGGATGGTGTAAAGCTCCGGCGGTGCAGGATGAGCCCGCGGCCTAT
@@ -94,4 +94,5 @@ Discute este [artículo](https://www.nature.com/articles/nbt1004-1315) con tus c
 Cuando se te entrega un genoma secuenciado genoma este viene en muchos pedazos de tamaño relacionado a la tecnología utilizada para secuenciar. Para poder encontrar genes y comparar tu genoma con otros genomas, hace falta ensamblarlo. Existen algoritmos para hacer esto desde la terminal, nosotros haremos un ejercicio práctico.   
 
 ### Ejercicio  
+🔨 To do (Agregar lecturas)
 Ensambla tu genoma y encuentra a quién pertenece. ¿Qué profundidad tiene? ¿De qué tamaño son tus pedazos en promedio? ¿Cómo le fue a tu compañero?  Discute los resultados y anótalos en el [documento colaborativo ]([(https://etherpad.wikimedia.org/p/CIMAT2024)])  
