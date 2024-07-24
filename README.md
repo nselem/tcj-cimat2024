@@ -29,7 +29,7 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
       
     
 ## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.wikimedia.org/p/CIMAT2024) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
+Aqui puedes encontrar un [documento colaborativo Martes](https://etherpad.wikimedia.org/p/CIMAT2024) [documento colaborativo Miércoles](https://etherpad.wikimedia.org/p/CIMAT2024-2) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. 
 
 ## Temario detallado  
 <table> 
